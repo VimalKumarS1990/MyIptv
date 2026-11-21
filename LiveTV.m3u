@@ -502,14 +502,10 @@ http://88.212.7.14/live/viasat_film/index.m3u8
 http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Latin America Andes (1080p)
 http://181.78.8.199:8000/play/a0cu/index.m3u8
-#EXTINF:-1 channel-id="IN3900016WI-in" tvg-id="IN3900016WI" tvg-chno="1117" tvg-name="B4U Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900016WI_20260818T082624SQUARE.png" group-title="Movies",B4U Movies
-https://jmp2.uk/stvp-IN3900016WI
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-65622ac05dbccec83a87b641" tvg-id="6a1610bebdf296985fd95603-65622ac05dbccec83a87b641" tvg-chno="" tvg-name="BBC Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b627a5e-4c24-4f70-8392-f6d7c5080bee/BBC_SCI-FI_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="Movies",BBC Sci-Fi
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-65622ac05dbccec83a87b641/?X-Plex-Token=5HDYSdausrhknGtrC9Ui
 #EXTINF:-1 channel-id="IN4000517J-in" tvg-id="IN4000517J" tvg-chno="1133" tvg-name="Best Action TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000517J_20260623T013723SQUARE.png" group-title="Movies",Best Action TV
 https://jmp2.uk/stvp-IN4000517J
-#EXTINF:-1 channel-id="IN4000555E-in" tvg-id="IN4000555E" tvg-chno="1228" tvg-name="Bollywood Masala" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000555E_20260623T013738SQUARE.png" group-title="Movies",Bollywood Masala
-https://jmp2.uk/stvp-IN4000555E
 #EXTINF:-1 tvg-id="CHARGE!.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Charge!_network_logo.png/revision/latest/scale-to-width-down/512/" group-title="Movies",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a3ec58b4ac530f3bac10721" tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png" group-title="Movies",CINDIE TV (1080p)
@@ -664,8 +660,6 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
 https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxcineKids.us@HD" tvg-logo="https://gia.tv/streams/pptv/209909.png" group-title="Movies",Maxcine Kids (720p)
 https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 channel-id="3030ce6ed7c092f0b6780f05d10405f9" tvg-id="3030ce6ed7c092f0b6780f05d10405f9" tvg-chno="5105" tvg-name="Mi Miedo Canal" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3030ce6ed7c092f0b6780f05d10405f9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1790026277485_mi_miedo_canal_logo_hud.png" group-title="Movies",Mi Miedo Canal
 https://jmp2.uk/rok-3030ce6ed7c092f0b6780f05d10405f9.m3u8
 #EXTINF:-1 channel-id="US18000163F-us" tvg-id="US18000163F" tvg-chno="1237" tvg-name="Miramax Movie Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20261009T160639SQUARE.png" group-title="Movies",Miramax Movie Channel
@@ -728,8 +722,6 @@ https://jmp2.uk/rok-349e0f0840cf21b888bff327b41a2413.m3u8
 http://92.114.85.87:8003/play/a007/index.m3u8
 #EXTINF:-1 channel-id="GB2600013BO-gb" tvg-id="GB2600013BO" tvg-chno="4947" tvg-name="Sci-Fi - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600013BO_20250121T013046SQUARE.png" group-title="Movies",Sci-Fi - Rakuten TV
 https://jmp2.uk/stvp-GB2600013BO
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62d1a58e520656fda09e609d" tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="Movies",Shemaroo Bollywood (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (United States) (720p)
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 channel-id="eb1dbd690001553eacdf32d7b155b933" tvg-id="eb1dbd690001553eacdf32d7b155b933" tvg-chno="1713" tvg-name="SPARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eb1dbd690001553eacdf32d7b155b933/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659742235158_Whitt_Hansen_-_SparkTVLogo_HUD_2_v2.png" group-title="Movies",SPARK TV
@@ -828,10 +820,6 @@ https://jmp2.uk/stvp-CABD1200021MS
 https://jmp2.uk/rok-b953c51bbdf5866b3816740c3da7c124.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us@SD" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Movies",Young Hollywood (720p)
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="IN21000014R-in" tvg-id="IN21000014R" tvg-chno="1115" tvg-name="Zee Cine Classic" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN21000014R_20261026T044106SQUARE.png" group-title="Movies",Zee Cine Classic
-https://jmp2.uk/stvp-IN21000014R
-#EXTINF:-1 channel-id="IN2100004C4-in" tvg-id="IN2100004C4" tvg-chno="1212" tvg-name="Zee Horror Nights" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100004C4_20260623T013340SQUARE.png" group-title="Movies",Zee Horror Nights
-https://jmp2.uk/stvp-IN2100004C4
 #EXTINF:-1 channel-id="GB800002OP-gb" tvg-id="GB800002OP" tvg-chno="4245" tvg-name="&TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB800002OP_20260407T040228SQUARE.png" group-title="Entertainment",&TV
 https://jmp2.uk/stvp-GB800002OP
 #EXTINF:-1 tvg-id="111TV.it@SD" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="Entertainment",111 TV (720p)
@@ -1084,8 +1072,6 @@ https://jmp2.uk/rok-fb29ccf15bc8583ca1db8c42902eeae8.m3u8
 https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
 #EXTINF:-1 tvg-id="Impact.Network.us2" tvg-logo="https://i.imgur.com/57NH9sS.png" group-title="Entertainment",Impact Network (720p)
 https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
-#EXTINF:-1 channel-id="IN2600020H9-in" tvg-id="IN2600020H9" tvg-chno="1222" tvg-name="India TV Aap ki Adalat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600020H9_20260623T015108SQUARE.png" group-title="Entertainment",India TV Aap ki Adalat
-https://jmp2.uk/stvp-IN2600020H9
 #EXTINF:-1 tvg-id="InsaytTV.ru@4K" tvg-logo="https://i.imgur.com/slLuRel.png" group-title="Entertainment",Insayt TV (2160p)
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="INSP.HD.us2" tvg-logo="https://i.imgur.com/YgOC51j.png" group-title="Entertainment",INSP (720p)
@@ -1114,8 +1100,6 @@ https://live-manifest.production-public.tubi.io/live/8a2841ab-5bd2-41d1-b93f-ce5
 https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="KC2.rw@SD" tvg-logo="https://i.imgur.com/PsYPzNc.png" group-title="Entertainment",KC2 (720p) [Not 24/7]
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
-#EXTINF:-1 tvg-id="KCM.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" group-title="Entertainment",KCM India (1080p) [Geo-blocked]
-https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 channel-id="GB3400003A9-gb" tvg-id="GB3400003A9" tvg-chno="4777" tvg-name="Ketchup TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3400003A9_20250107T031143SQUARE.png" group-title="Entertainment",Ketchup TV
 https://jmp2.uk/stvp-GB3400003A9
 #EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="Entertainment",KIX (1080p)
@@ -1232,8 +1216,6 @@ https://jmp2.uk/stvp-GB3800010LT
 https://live-manifest.production-public.tubi.io/live/6e2a5ee3-d2ea-44db-bc14-b4d3e85442c2/playlist.m3u8
 #EXTINF:-1 channel-id="8abbea29b86a5a5da299c7ef2e288cab" tvg-id="8abbea29b86a5a5da299c7ef2e288cab" tvg-chno="2671" tvg-name="Reelz Famous and Infamous" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8abbea29b86a5a5da299c7ef2e288cab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1733326414482_ReelzFI_260x147_v1.png" group-title="Entertainment",Reelz Famous and Infamous
 https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8
-#EXTINF:-1 channel-id="INBA4900020A5-in" tvg-id="INBA4900020A5" tvg-chno="1465" tvg-name="Republic TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20260623T013003SQUARE.png" group-title="Entertainment",Republic TV
-https://jmp2.uk/stvp-INBA4900020A5
 #EXTINF:-1 tvg-id="ResurrectionTV.gh@SD" tvg-logo="https://i.imgur.com/IncyJW8.png" group-title="Entertainment",Resurrection TV (720p)
 https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
 #EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://i.imgur.com/PNTYOgg.png" tvg-id="RETRO.us2" tvg-chno="2" tvg-country="US" group-title="Entertainment",Retro TV
@@ -1286,8 +1268,6 @@ https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="eb1dbd690001553eacdf32d7b155b933" tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="Entertainment",Spark TV (1080p)
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR.BHARAT.in" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Entertainment",Star Bharat (576p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@UK" tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="Entertainment",Star Vijay UK (396p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="StarPlus.uk@SD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus (United Kingdom) (576p)
@@ -1308,14 +1288,10 @@ https://lbs-us1.suprememastertv.com/720p.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8
 #EXTINF:-1 channel-id="GB1200006IV-gb" tvg-id="GB1200006IV" tvg-chno="4557" tvg-name="Talk" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1200006IV_20250506T021119SQUARE.png" group-title="Entertainment",Talk
 https://jmp2.uk/stvp-GB1200006IV
-#EXTINF:-1 tvg-id="Tamil.Vision.(Canada).ca2" tvg-logo="https://i.imgur.com/DodsLuW.png" group-title="Entertainment",TamilVision-TV (1080p)
-https://live.cmr24.fm/TVI/HD/chunks.m3u8
 #EXTINF:-1 tvg-id="TAPTVChannel23.us@SD" tvg-logo="https://i.imgur.com/5mhYHtD.png" group-title="Entertainment",TAP TV Channel 23 (720p)
 https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 channel-id="US3900007ZW-us" tvg-id="US3900007ZW" tvg-chno="2345" tvg-name="Team USA TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3900007ZW_20260421T143018SQUARE.png" group-title="Entertainment",Team USA TV
 https://jmp2.uk/stvp-US3900007ZW
-#EXTINF:-1 channel-id="IN400058AF-in" tvg-id="IN400058AF" tvg-chno="1352" tvg-name="TeluguOne TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400058AF_20260623T015750SQUARE.png" group-title="Entertainment",TeluguOne TV
-https://jmp2.uk/stvp-IN400058AF
 #EXTINF:-1 tvg-id="TemeculaTV.us@SD" tvg-logo="https://i.imgur.com/El16S4C.png" group-title="Entertainment",Temecula TV (1080p)
 https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8
 #EXTINF:-1 channel-id="1d3f60995d80521882a379fc06e47679" tvg-id="1d3f60995d80521882a379fc06e47679" tvg-chno="3020" tvg-name="The Bob Ross Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1d3f60995d80521882a379fc06e47679/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655142477923_TheBobRossChannel_Roku_ChannelLogos_260x147.png" group-title="Entertainment",The Bob Ross Channel
@@ -1375,16 +1351,6 @@ https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
 #EXTVLCOPT:http-origin=https://liveghanatv.com
 #EXTHTTP:{"referer": "https://liveghanatv.com/", "origin": "https://liveghanatv.com"}
 https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8
-#EXTINF:-1 channel-id="INBD2500007PD-in" tvg-id="INBD2500007PD" tvg-chno="1516" tvg-name="TV9 Bangla" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500007PD_20260623T015715SQUARE.png" group-title="Entertainment",TV9 Bangla
-https://jmp2.uk/stvp-INBD2500007PD
-#EXTINF:-1 channel-id="INBD1300012GJ-in" tvg-id="INBD1300012GJ" tvg-chno="1506" tvg-name="TV9 Gujarati" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300012GJ_20261013T051715SQUARE.png" group-title="Entertainment",TV9 Gujarati
-https://jmp2.uk/stvp-INBD1300012GJ
-#EXTINF:-1 tvg-name="TV9 Kannada" tvg-logo="https://i.imgur.com/9rBgkxG.png" tvg-id="INBD2500003XT" tvg-chno="14" tvg-country="IN" group-title="Entertainment",TV9 Kannada
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="TV9 Marathi" tvg-logo="https://i.imgur.com/k7urrIv.jpeg" tvg-id="IN4000003V7" tvg-chno="16" tvg-country="IN" group-title="Entertainment",TV9 Marathi
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="TV9 Telugu" tvg-logo="https://i.imgur.com/oHAdC30.png" tvg-id="IN40000048N" tvg-chno="15" tvg-country="IN" group-title="Entertainment",TV9 Telugu
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 channel-id="a77b94bceefad7df653d27acc05ae420" tvg-id="a77b94bceefad7df653d27acc05ae420" tvg-chno="5054" tvg-name="TVOAI Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a77b94bceefad7df653d27acc05ae420/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1738699180944_hud_logo-2.png" group-title="Entertainment",TVOAI Channel
 https://jmp2.uk/rok-a77b94bceefad7df653d27acc05ae420.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" group-title="Entertainment",TVRI World (1080p)
@@ -1453,14 +1419,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 tvg-id="YTA.Youtoo.America.us2" tvg-logo="https://i.imgur.com/UDpDJ7v.png" group-title="Entertainment",YTA TV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16767
-#EXTINF:-1 tvg-id="ATBA3300006WH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One (1080p)
-https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One French (720p)
-https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeOne.uk@German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One German (720p)
-https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Zee_TV_Logo_2025.svg/960px-Zee_TV_Logo_2025.svg.png" group-title="Entertainment",Zee TV Asia Pacific (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
 #EXTINF:-1 channel-id="427be38e736e5c6e92bd1cec086e941a" tvg-id="427be38e736e5c6e92bd1cec086e941a" tvg-chno="5050" tvg-name="ÚNICA TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/427be38e736e5c6e92bd1cec086e941a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763491674042_LOGO_uNICATV-HUD-HORIZONTALefefef.png" group-title="Entertainment",ÚNICA TV
 https://jmp2.uk/rok-427be38e736e5c6e92bd1cec086e941a.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us@SD" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="Kids",3ABN Kids
@@ -1475,8 +1433,6 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 #EXTINF:-1 channel-id="INBD13000043W-in" tvg-id="INBD13000043W" tvg-chno="1276" tvg-name="Animax" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20260623T013612SQUARE.png" group-title="Kids",Animax
 https://jmp2.uk/stvp-INBD13000043W
-#EXTINF:-1 tvg-id="AnimaxAsia.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" group-title="Kids",Animax Asia India (1080p) [Geo-blocked]
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" group-title="Kids",Animax Asia Taiwan
 http://125.227.210.55:3056/VideoInput/play.ts
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-686452b8fbd6d9b449de2be3" tvg-id="647f8d22a2fc3fadb4721685-686452b8fbd6d9b449de2be3" tvg-chno="" tvg-name="Anime 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa882b26-2283-430c-8e7f-8468227ad362/anime247_logo_dark_-_Jason_Hwang.png" group-title="Kids",Anime 24/7
@@ -1669,8 +1625,6 @@ https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Kids",The Pet Collective Australia (720p)
 https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Kids",The Pet Collective India
-https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Italy" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Kids",The Pet Collective Italy
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Kids",The Pet Collective Mexico (720p)
@@ -1728,8 +1682,6 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXS.TV.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png" group-title="Music",AXS TV (720p)
 http://23.239.31.26:8989/axstv/index.m3u8
-#EXTINF:-1 channel-id="IN3900017KM-in" tvg-id="IN3900017KM" tvg-chno="1606" tvg-name="B4U Music" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900017KM_20260623T013703SQUARE.png" group-title="Music",B4U Music
-https://jmp2.uk/stvp-IN3900017KM
 #EXTINF:-1 channel-id="CABD12000247O-ca" tvg-id="CABD12000247O" tvg-chno="3724" tvg-name="batteryPOP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD12000247O_20260421T141137SQUARE.png" group-title="Music",batteryPOP
 https://jmp2.uk/stvp-CABD12000247O
 #EXTINF:-1 channel-id="CA1400020K2-ca" tvg-id="CA1400020K2" tvg-chno="4581" tvg-name="Beach Bonfire Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400020K2_20260421T140333SQUARE.png" group-title="Music",Beach Bonfire Vibes
@@ -1832,8 +1784,6 @@ http://88.212.15.50/live/mb_dance/index.m3u8
 http://88.212.15.50/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxSexy.cz@SD" tvg-logo="https://musicboxsexy.com/music_box_sexy_logo.png" group-title="Music",Music Box Sexy
 http://88.212.15.50/live/mb_sexy/index.m3u8
-#EXTINF:-1 channel-id="INBD4700015M0-in" tvg-id="INBD4700015M0" tvg-chno="1608" tvg-name="Music India" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700015M0_20260623T015257SQUARE.png" group-title="Music",Music India
-https://jmp2.uk/stvp-INBD4700015M0
 #EXTINF:-1 tvg-id="CA1800004L7" tvg-logo="https://i.imgur.com/B7ILXMc.png" group-title="Music",NEW K-POP (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-name="Now 70s" tvg-logo="https://i.imgur.com/qiCCX5X.png" tvg-id="GB300032DX" tvg-chno="361" tvg-country="GB" group-title="Music",Now 70s
@@ -2074,8 +2024,6 @@ http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 https://jmp2.uk/stvp-US19000017A
 #EXTINF:-1 channel-id="USBD3500041ZF-us" tvg-id="USBD3500041ZF" tvg-chno="2729" tvg-name="American Pickers by History" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20261016T224622SQUARE.png" group-title="Documentary",American Pickers by History
 https://jmp2.uk/stvp-USBD3500041ZF
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png" group-title="Documentary",Animal Planet (India) (720p)
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet Latin America (1080p)
 http://190.128.214.97:64333/play/a01n/index.m3u8
 #EXTINF:-1 channel-id="3ee48530e00e0abe8eb40c71fc819aa0" tvg-id="3ee48530e00e0abe8eb40c71fc819aa0" tvg-chno="5092" tvg-name="Astro Ciencia" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3ee48530e00e0abe8eb40c71fc819aa0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1774998916966_HUD_260x147.png" group-title="Documentary",Astro Ciencia
@@ -2104,8 +2052,6 @@ https://live-manifest.production-public.tubi.io/live/3ce83511-4f77-491d-ae2d-94f
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="BXCulture.us@SD" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Documentary",BX Culture (720p)
 https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
-#EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Documentary",C Malayalam TV (1080p)
-https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN-Documentary.au" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary",CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="China.Travel.distro" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Documentary",China Travel (1080p)
@@ -2146,8 +2092,6 @@ https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="Documentary",Discovery Asia Taiwan (1080p)
 http://125.227.210.55:1004/VideoInput/play.ts
-#EXTINF:-1 tvg-id="IT31000026G" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Documentary",Discovery Channel (India) (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel Latin America (1080p)
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Documentary",Discovery Science Latin America (720p)
@@ -2847,8 +2791,6 @@ https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 https://jmp2.uk/stvp-GBBD3100003J5
 #EXTINF:-1 channel-id="017397f76bae510a8a9800c4b94eaa40" tvg-id="017397f76bae510a8a9800c4b94eaa40" tvg-chno="5067" tvg-name="ViX Cine Club" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/017397f76bae510a8a9800c4b94eaa40/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751574192_CineClub_RokuHub_260x147_White.png" group-title="Comedy",ViX Cine Club
 https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8
-#EXTINF:-1 channel-id="IN2100002GD-in" tvg-id="IN2100002GD" tvg-chno="1202" tvg-name="Zee Comedy Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20261013T051727SQUARE.png" group-title="Comedy",Zee Comedy Nation
-https://jmp2.uk/stvp-IN2100002GD
 #EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us@SD" tvg-logo="https://i.imgur.com/Gtwk8ic.png" group-title="Reality",Absolute Reality by WE TV
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bec" tvg-id="6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bec" tvg-chno="" tvg-name="All Reality We TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/654a8db7-8ea1-4b3f-8d0e-8cd49d80c5f1/AR_Rebrand_TT_Stacked_RDX.png" group-title="Reality",All Reality We TV
@@ -2983,8 +2925,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 https://jmp2.uk/stvp-CA14000028T
 #EXTINF:-1 channel-id="US1800019OC-us" tvg-id="US1800019OC" tvg-chno="1535" tvg-name="Designated Survivor" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800019OC_20260421T133910SQUARE.png" group-title="Lifestyle & Food",Designated Survivor
 https://jmp2.uk/stvp-US1800019OC
-#EXTINF:-1 tvg-id="6400f731d200410008f9b339" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png" group-title="Lifestyle & Food",Discovery Turbo (India) (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Lifestyle & Food",Discovery Turbo Latin America (1080p)
 http://38.134.250.110:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us@SD" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="Lifestyle & Food",DroneTV (1080p)
@@ -3097,8 +3037,6 @@ https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
 https://jmp2.uk/stvp-CA700002VS
 #EXTINF:-1 channel-id="USBB40000028E-us" tvg-id="USBB40000028E" tvg-chno="2032" tvg-name="NBC LX Home" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20250325T014929SQUARE.png" group-title="Lifestyle & Food",NBC LX Home
 https://jmp2.uk/stvp-USBB40000028E
-#EXTINF:-1 tvg-id="INBC2800007ZP" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOOD_TIMES/images/LOGO_HD/image.png" group-title="Lifestyle & Food",NDTV Good Times (1080p)
-https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us@HD" tvg-logo="https://i.imgur.com/8m8gy0n.png" group-title="Lifestyle & Food",NowMedia Television (1080p)
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish" tvg-logo="https://i.imgur.com/8m8gy0n.png" group-title="Lifestyle & Food",NowMedia Television Spanish (1080p)
@@ -3268,8 +3206,6 @@ https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 #EXTINF:-1 tvg-id="ABNChina.us@SD" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="Religious",ABN China (720p)
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-#EXTINF:-1 tvg-id="ABNTVIndia.us@SD" tvg-logo="https://i.imgur.com/VcZn60X.png" group-title="Religious",ABN TV India (540p)
-https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 #EXTINF:-1 tvg-id="ABNUrdu.us@SD" tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="Religious",ABN Urdu (540p)
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1 tvg-id="ACNN.ng@SD" tvg-logo="https://i.imgur.com/91JLpxr.png" group-title="Religious",ACNN (480p)
@@ -3450,8 +3386,6 @@ https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
 #EXTINF:-1 tvg-id="InTouchPlus.us@HD" tvg-logo="https://d2cc5gnf1jy2pj.cloudfront.net/custom_landing_pages/intouchplus/intouchplus_logo.svg" group-title="Religious",InTouch+ (1080p) [Geo-blocked]
 https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IQRA.BANGLA.uk" tvg-logo="https://i.imgur.com/BZBZAeC.png" group-title="Religious",Iqra Bangla (576p)
-https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
 #EXTINF:-1 tvg-id="IqraaAfricaEurope.sa@SD" tvg-logo="https://i.imgur.com/nUlZvSe.png" group-title="Religious",Iqraa Africa & Europe (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaQuran.sa@SD" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa Quran (1080p)
@@ -3666,20 +3600,12 @@ https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-name="9Life" tvg-logo="https://i.imgur.com/ZCUiqlL.png" tvg-id="9Life.au" tvg-chno="5" tvg-country="AU" group-title="Local/General",9Life Ⓖ
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 channel-id="INBC2800013L6-in" tvg-id="INBC2800013L6" tvg-chno="1604" tvg-name="9X Jalwa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20260623T013459SQUARE.png" group-title="Local/General",9X Jalwa
-https://jmp2.uk/stvp-INBC2800013L6
-#EXTINF:-1 channel-id="INBC2800011JL-in" tvg-id="INBC2800011JL" tvg-chno="1636" tvg-name="9X Tashan" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800011JL_20260623T013512SQUARE.png" group-title="Local/General",9X Tashan
-https://jmp2.uk/stvp-INBC2800011JL
-#EXTINF:-1 channel-id="IN38000050P-in" tvg-id="IN38000050P" tvg-chno="1009" tvg-name="9XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261020T052412SQUARE.png" group-title="Local/General",9XM
-https://jmp2.uk/stvp-IN38000050P
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6674b595f04cf4bb9233c914" tvg-id="6a1610bebdf296985fd95603-6674b595f04cf4bb9233c914" tvg-chno="" tvg-name="A Touch of Frost" tvg-logo="https://provider-static.plex.tv/epg/cms/production/43848ac4-62a9-4cdc-ace0-e15661a2e748/FilmRise_TouchOfFrostA_Logo_WhiteRDX.png" group-title="Local/General",A Touch of Frost
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6674b595f04cf4bb9233c914/?X-Plex-Token=5HDYSdausrhknGtrC9Ui
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6a024c8e981d28c38fb16f21" tvg-id="6a1610bebdf296985fd95603-6a024c8e981d28c38fb16f21" tvg-chno="" tvg-name="A&E Alaska State Troopers" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4269e6c2-6949-4acb-a767-dae9faff021f/AlaskaStateTroopers_channel_logo_white_1500x1000.png" group-title="Local/General",A&E Alaska State Troopers
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6a024c8e981d28c38fb16f21/?X-Plex-Token=5HDYSdausrhknGtrC9Ui
 #EXTINF:-1 tvg-id="A2iTV.it@SD" tvg-logo="https://i.imgur.com/YlDFir7.jpg" group-title="Local/General",A2i TV (1080p)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-#EXTINF:-1 channel-id="IN3800001ZH-in" tvg-id="IN3800001ZH" tvg-chno="1007" tvg-name="Aaj Tak HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800001ZH_20261026T044055SQUARE.png" group-title="Local/General",Aaj Tak HD
-https://jmp2.uk/stvp-IN3800001ZH
 #EXTINF:-1 tvg-id="ABCTV.au@ACT" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Local/General",ABC TV ACT (720p)
 https://c.mjh.nz/abc-act.m3u8
 #EXTINF:-1 tvg-id="ABCTV.au@NT" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Local/General",ABC TV NT (720p)
@@ -3694,12 +3620,6 @@ https://c.mjh.nz/abc-tas.m3u8
 https://c.mjh.nz/abc-vic.m3u8
 #EXTINF:-1 tvg-id="ABCTV.au@WA" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="Local/General",ABC TV WA (720p)
 https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" tvg-id="IN4000006CF" tvg-chno="3" tvg-country="IN" group-title="Local/General",ABP Ananda
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 channel-id="INBD400010BD-in" tvg-id="INBD400010BD" tvg-chno="1504" tvg-name="ABP Asmita" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400010BD_20260623T013536SQUARE.png" group-title="Local/General",ABP Asmita
-https://jmp2.uk/stvp-INBD400010BD
-#EXTINF:-1 channel-id="IN4000005BW-in" tvg-id="IN4000005BW" tvg-chno="1484" tvg-name="ABP Majha" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000005BW_20260623T013543SQUARE.png" group-title="Local/General",ABP Majha
-https://jmp2.uk/stvp-IN4000005BW
 #EXTINF:-1 channel-id="USBD25000161U-us" tvg-id="USBD25000161U" tvg-chno="2396" tvg-name="ACC Digital Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000161U_20250304T041450SQUARE.png" group-title="Local/General",ACC Digital Network
 https://jmp2.uk/stvp-USBD25000161U
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5f8ee3727c75fa002d9e47c1" tvg-id="6a1610bebdf296985fd95603-5f8ee3727c75fa002d9e47c1" tvg-chno="" tvg-name="ACCDN" tvg-logo="https://provider-static.plex.tv/epg/cms/production/755bfa66-9d86-449b-9af3-8abd5c3b9f10/ACCDN_Logo_1500x1000_Dark_Background_-_Mathew_Carstens.png" group-title="Local/General",ACCDN
@@ -3783,10 +3703,6 @@ https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-chno="" tvg-name="Azteca Internacional" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="Local/General",Azteca Internacional
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8/?X-Plex-Token=5HDYSdausrhknGtrC9Ui
-#EXTINF:-1 channel-id="IN39000307N-in" tvg-id="IN39000307N" tvg-chno="1158" tvg-name="B4U Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000307N_20260623T013644SQUARE.png" group-title="Local/General",B4U Bhojpuri
-https://jmp2.uk/stvp-IN39000307N
-#EXTINF:-1 channel-id="IN39000187Z-in" tvg-id="IN39000187Z" tvg-chno="1119" tvg-name="B4U Kadak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000187Z_20260812T010929SQUARE.png" group-title="Local/General",B4U Kadak
-https://jmp2.uk/stvp-IN39000187Z
 #EXTINF:-1 tvg-id="BahrainInternational.bh@SD" tvg-logo="https://i.imgur.com/t6Lmntr.png" group-title="Local/General",Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 channel-id="INBC2800008VD-in" tvg-id="INBC2800008VD" tvg-chno="1638" tvg-name="Balle Balle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800008VD_20260623T013717SQUARE.png" group-title="Local/General",Balle Balle
@@ -4003,8 +3919,6 @@ https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
 https://jmp2.uk/stvp-IN400000830
 #EXTINF:-1 channel-id="IN1700011V7-in" tvg-id="IN1700011V7" tvg-chno="1208" tvg-name="Epic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700011V7_20260929T041306SQUARE.png" group-title="Local/General",Epic Bharat
 https://jmp2.uk/stvp-IN1700011V7
-#EXTINF:-1 channel-id="IN800020ZZ-in" tvg-id="IN800020ZZ" tvg-chno="1159" tvg-name="Epic Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800020ZZ_20260728T010419SQUARE.png" group-title="Local/General",Epic Bhojpuri
-https://jmp2.uk/stvp-IN800020ZZ
 #EXTINF:-1 tvg-id="ERiTV1.er@SD" tvg-logo="https://i.imgur.com/bTR0Huw.png" group-title="Local/General",ERi-TV 1 (576p)
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 #EXTINF:-1 channel-id="USAJ3504719A-us" tvg-id="USAJ3504719A" tvg-chno="3890" tvg-name="Escape Perfecto" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20260421T141828SQUARE.png" group-title="Local/General",Escape Perfecto
@@ -4065,8 +3979,6 @@ https://jmp2.uk/stvp-USBC24000213P
 https://jmp2.uk/stvp-US1000015RF
 #EXTINF:-1 channel-id="US44000027B-us" tvg-id="US44000027B" tvg-chno="1407" tvg-name="Grjngo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US44000027B_20250204T014310SQUARE.png" group-title="Local/General",Grjngo
 https://jmp2.uk/stvp-US44000027B
-#EXTINF:-1 channel-id="IN4000635D-in" tvg-id="IN4000635D" tvg-chno="1312" tvg-name="GTC Punjabi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000635D_20260623T014934SQUARE.png" group-title="Local/General",GTC Punjabi
-https://jmp2.uk/stvp-IN4000635D
 #EXTINF:-1 tvg-id="GTNCanada.ca@SD" tvg-logo="https://i.imgur.com/7bQPJOd.png" group-title="Local/General",GTN Canada (1080i) [Geo-blocked]
 https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 #EXTINF:-1 tvg-id="GuangdongTVAmerica.us@SD" tvg-logo="https://i.imgur.com/7J4qGjA.png" group-title="Local/General",Guangdong TV America
@@ -4121,10 +4033,6 @@ https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8
 https://jmp2.uk/stvp-CA2600005VD
 #EXTINF:-1 channel-id="GB21000070H-gb" tvg-id="GB21000070H" tvg-chno="4196" tvg-name="Inazuma Eleven" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB21000070H_20260818T050946SQUARE.png" group-title="Local/General",Inazuma Eleven
 https://jmp2.uk/stvp-GB21000070H
-#EXTINF:-1 channel-id="IN4000007M9-in" tvg-id="IN4000007M9" tvg-chno="1426" tvg-name="India Daily 24x7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000007M9_20260623T015101SQUARE.png" group-title="Local/General",India Daily 24x7
-https://jmp2.uk/stvp-IN4000007M9
-#EXTINF:-1 channel-id="INBC2800005X4-in" tvg-id="INBC2800005X4" tvg-chno="1457" tvg-name="India Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20260623T015135SQUARE.png" group-title="Local/General",India Today
-https://jmp2.uk/stvp-INBC2800005X4
 #EXTINF:-1 channel-id="CABA800001IQ-ca" tvg-id="CABA800001IQ" tvg-chno="1984" tvg-name="INFAST" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20260421T141106SQUARE.png" group-title="Local/General",INFAST
 https://jmp2.uk/stvp-CABA800001IQ
 #EXTINF:-1 channel-id="GB3900003W4-gb" tvg-id="GB3900003W4" tvg-chno="4087" tvg-name="Inside Outside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3900003W4_20251013T054345SQUARE.png" group-title="Local/General",Inside Outside
@@ -4292,8 +4200,6 @@ https://jmp2.uk/stvp-US300062TG
 https://jmp2.uk/stvp-IN46000140Q
 #EXTINF:-1 channel-id="IN460001373-in" tvg-id="IN460001373" tvg-chno="1602" tvg-name="NH BollyRaga" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN460001373_20260623T015342SQUARE.png" group-title="Local/General",NH BollyRaga
 https://jmp2.uk/stvp-IN460001373
-#EXTINF:-1 channel-id="IN400061DB-in" tvg-id="IN400061DB" tvg-chno="1164" tvg-name="NH Tamil Gold" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png" group-title="Local/General",NH Tamil Gold
-https://jmp2.uk/stvp-IN400061DB
 #EXTINF:-1 channel-id="GB2700017IP-gb" tvg-id="GB2700017IP" tvg-chno="4208" tvg-name="Nolly Africa HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700017IP_20260901T102526SQUARE.png" group-title="Local/General",Nolly Africa HD
 https://jmp2.uk/stvp-GB2700017IP
 #EXTINF:-1 channel-id="CA1300001DN-ca" tvg-id="CA1300001DN" tvg-chno="2679" tvg-name="Noovo Ça c’est drôle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300001DN_20260421T140239SQUARE.png" group-title="Local/General",Noovo Ça c’est drôle
@@ -4400,18 +4306,12 @@ https://jmp2.uk/stvp-CA4700009KA
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 channel-id="US5000052H1-us" tvg-id="US5000052H1" tvg-chno="2804" tvg-name="Price is Right" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US5000052H1_20260421T143111SQUARE.png" group-title="Local/General",Price is Right
 https://jmp2.uk/stvp-US5000052H1
-#EXTINF:-1 tvg-id="PTCPunjabiCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="Local/General",PTC Punjabi Canada (1080p)
-https://stream.ottlive.co.in/ptccanada/index.m3u8
-#EXTINF:-1 channel-id="IN400064VZ-in" tvg-id="IN400064VZ" tvg-chno="1314" tvg-name="Punjabi Shorts" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400064VZ_20260623T015554SQUARE.png" group-title="Local/General",Punjabi Shorts
-https://jmp2.uk/stvp-IN400064VZ
 #EXTINF:-1 channel-id="USBD17000025J-us" tvg-id="USBD17000025J" tvg-chno="2489" tvg-name="Pursuit UP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000025J_20240520T220137SQUARE.png" group-title="Local/General",Pursuit UP
 https://jmp2.uk/stvp-USBD17000025J
 #EXTINF:-1 tvg-id="QazaqstanInternational.kz@SD" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Local/General",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="GB120000761-gb" tvg-id="GB120000761" tvg-chno="4214" tvg-name="Quantum Makers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB120000761_20260707T052057SQUARE.png" group-title="Local/General",Quantum Makers
 https://jmp2.uk/stvp-GB120000761
-#EXTINF:-1 channel-id="INBD2500016OR-in" tvg-id="INBD2500016OR" tvg-chno="1524" tvg-name="R Bangla" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500016OR_20261013T051809SQUARE.png" group-title="Local/General",R Bangla
-https://jmp2.uk/stvp-INBD2500016OR
 #EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-logo="https://i.imgur.com/QxdkiCZ.png" group-title="Local/General",Raajje TV
 https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
 #EXTINF:-1 channel-id="GBBD230000420-gb" tvg-id="GBBD230000420" tvg-chno="4805" tvg-name="Rabbids Invasion" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD230000420_20250107T030737SQUARE.png" group-title="Local/General",Rabbids Invasion
@@ -4444,10 +4344,6 @@ https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 https://jmp2.uk/stvp-USBD1700018II
 #EXTINF:-1 channel-id="USBB3200001MG-us" tvg-id="USBB3200001MG" tvg-chno="1845" tvg-name="REELZ Famous & Infamous" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png" group-title="Local/General",REELZ Famous & Infamous
 https://jmp2.uk/stvp-USBB3200001MG
-#EXTINF:-1 channel-id="INBA490002119-in" tvg-id="INBA490002119" tvg-chno="1004" tvg-name="Republic Bharat" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA490002119_20261020T052351SQUARE.png" group-title="Local/General",Republic Bharat
-https://jmp2.uk/stvp-INBA490002119
-#EXTINF:-1 channel-id="IN1600006GA-in" tvg-id="IN1600006GA" tvg-chno="1556" tvg-name="Republic Kannada" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600006GA_20260623T015605SQUARE.png" group-title="Local/General",Republic Kannada
-https://jmp2.uk/stvp-IN1600006GA
 #EXTINF:-1 channel-id="CABC2300012FY-ca" tvg-id="CABC2300012FY" tvg-chno="3207" tvg-name="RetroCrush" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300012FY_20260811T043156SQUARE.png" group-title="Local/General",RetroCrush
 https://jmp2.uk/stvp-CABC2300012FY
 #EXTINF:-1 channel-id="GBBD4900001RG-gb" tvg-id="GBBD4900001RG" tvg-chno="4574" tvg-name="Reuters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4900001RG_20250107T030741SQUARE.png" group-title="Local/General",Reuters
@@ -4490,12 +4386,6 @@ http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
 https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd
 #EXTINF:-1 channel-id="US300068X7-us" tvg-id="US300068X7" tvg-chno="1000" tvg-name="Samsung Television Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300068X7_20261023T223618SQUARE.png" group-title="Local/General",Samsung Television Network
 https://jmp2.uk/stvp-US300068X7
-#EXTINF:-1 channel-id="INBD4700018T7-in" tvg-id="INBD4700018T7" tvg-chno="1648" tvg-name="Sangeet Bangla" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700018T7_20260623T015615SQUARE.png" group-title="Local/General",Sangeet Bangla
-https://jmp2.uk/stvp-INBD4700018T7
-#EXTINF:-1 channel-id="INBD4700017SL-in" tvg-id="INBD4700017SL" tvg-chno="1644" tvg-name="Sangeet Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700017SL_20260623T015622SQUARE.png" group-title="Local/General",Sangeet Bhojpuri
-https://jmp2.uk/stvp-INBD4700017SL
-#EXTINF:-1 channel-id="INBD4700016S7-in" tvg-id="INBD4700016S7" tvg-chno="1630" tvg-name="Sangeet Marathi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700016S7_20260623T015627SQUARE.png" group-title="Local/General",Sangeet Marathi
-https://jmp2.uk/stvp-INBD4700016S7
 #EXTINF:-1 channel-id="IN300091WU-in" tvg-id="IN300091WU" tvg-chno="1214" tvg-name="Sansani Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN300091WU_20260623T015633SQUARE.png" group-title="Local/General",Sansani Live
 https://jmp2.uk/stvp-IN300091WU
 #EXTINF:-1 channel-id="US18000096O-us" tvg-id="US18000096O" tvg-chno="2678" tvg-name="Saved by the Bell" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000096O_20260421T143424SQUARE.png" group-title="Local/General",Saved by the Bell
@@ -4544,8 +4434,6 @@ https://jmp2.uk/stvp-CA1000003PR
 https://iptv.sohailtv.com/sohail/playlist/index.m3u8
 #EXTINF:-1 channel-id="GB370000369-gb" tvg-id="GB370000369" tvg-chno="4810" tvg-name="Sonic The Hedgehog" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB370000369_20250107T031224SQUARE.png" group-title="Local/General",Sonic The Hedgehog
 https://jmp2.uk/stvp-GB370000369
-#EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Local/General",Sony KAL Hindi (1080p)
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 channel-id="GB300008I8-gb" tvg-id="GB300008I8" tvg-chno="4080" tvg-name="Sony One Dragons Den" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300008I8_20260528T054008SQUARE.png" group-title="Local/General",Sony One Dragons Den
 https://jmp2.uk/stvp-GB300008I8
 #EXTINF:-1 channel-id="GB300007J7-gb" tvg-id="GB300007J7" tvg-chno="4233" tvg-name="Sony One FAVES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB300007J7_20261026T042431SQUARE.png" group-title="Local/General",Sony One FAVES
@@ -4670,8 +4558,6 @@ https://jmp2.uk/stvp-IN25000020M
 https://jmp2.uk/stvp-IN3800002VK
 #EXTINF:-1 channel-id="GB3600002EB-gb" tvg-id="GB3600002EB" tvg-chno="4068" tvg-name="The Osbournes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3600002EB_20260324T035052SQUARE.png" group-title="Local/General",The Osbournes
 https://jmp2.uk/stvp-GB3600002EB
-#EXTINF:-1 tvg-id="TheQIndia.us@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Local/General",The Q India (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTHTTP:{"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"}
 http://103.175.73.12:8080/live/25/25_0.m3u8
 #EXTINF:-1 channel-id="CA1900002GF-ca" tvg-id="CA1900002GF" tvg-chno="2902" tvg-name="The Ringer from Spotify" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1900002GF_20260714T041059SQUARE.png" group-title="Local/General",The Ringer from Spotify
@@ -4896,18 +4782,6 @@ https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg0
 https://jmp2.uk/stvp-US800014B2
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="" group-title="Local/General",Zarin TV (1080p)
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
-#EXTINF:-1 channel-id="INBD400003GE-in" tvg-id="INBD400003GE" tvg-chno="1520" tvg-name="Zee 24 Ghanta" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400003GE_20260623T013259SQUARE.png" group-title="Local/General",Zee 24 Ghanta
-https://jmp2.uk/stvp-INBD400003GE
-#EXTINF:-1 channel-id="INBD4000027E-in" tvg-id="INBD4000027E" tvg-chno="1510" tvg-name="Zee 24 Kalak" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4000027E_20260623T013305SQUARE.png" group-title="Local/General",Zee 24 Kalak
-https://jmp2.uk/stvp-INBD4000027E
-#EXTINF:-1 channel-id="INBD400001CP-in" tvg-id="INBD400001CP" tvg-chno="1486" tvg-name="Zee 24 Taas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400001CP_20260929T041420SQUARE.png" group-title="Local/General",Zee 24 Taas
-https://jmp2.uk/stvp-INBD400001CP
-#EXTINF:-1 channel-id="IN2100003OJ-in" tvg-id="IN2100003OJ" tvg-chno="1008" tvg-name="Zee Dil Se" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100003OJ_20261026T044112SQUARE.png" group-title="Local/General",Zee Dil Se
-https://jmp2.uk/stvp-IN2100003OJ
-#EXTINF:-1 channel-id="GBBD1100013BJ-gb" tvg-id="GBBD1100013BJ" tvg-chno="4243" tvg-name="Zee One" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100013BJ_20250701T033240SQUARE.png" group-title="Local/General",Zee One
-https://jmp2.uk/stvp-GBBD1100013BJ
-#EXTINF:-1 channel-id="IN2100005T2-in" tvg-id="IN2100005T2" tvg-chno="1121" tvg-name="Zee South Flix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100005T2_20260623T013351SQUARE.png" group-title="Local/General",Zee South Flix
-https://jmp2.uk/stvp-IN2100005T2
 #EXTINF:-1 tvg-id="ZNSTV.bs@SD" tvg-logo="https://i.imgur.com/h6nC8fe.png" group-title="Local/General",ZNS-TV (1080p)
 https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
 #EXTINF:-1 channel-id="USBC2400019EF-us" tvg-id="USBC2400019EF" tvg-chno="3700" tvg-name="ZooMoo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20260414T005640SQUARE.png" group-title="Local/General",ZooMoo
