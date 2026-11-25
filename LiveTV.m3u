@@ -3769,3 +3769,73 @@ https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88884644/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=nbcuxenawarriorprincess&ads.channelId=88884644&ads.channelName=xenawarriorprincess_us&ads.csid=tcl2_us_nbcuxenawarriorprincess_ssai&ads.genre=Action&ads.xumo_channelId=88884644&ads.xumo_channelName=NBCUXenaWarriorPrincess&ads.xumo_contentId=4226&ads.xumo_contentName=NBCUXenaWarriorPrincess&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=4226&ads.xumo_providerName=NBCUXenaWarriorPrincess&ads.xumo_streamId=88884644&declaredCC1Language=en&includeAssetTags=true
 #EXTINF:-1 tvg-id="99991639" tvg-name="Xumo Free Game Show TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991639/168x168.png?type=color_onBlack" group-title="Entertainment",Xumo Free Game Show TV
 https://live-content.xumo.com/3751/content/XM0H8Z2UXMXROO/26425382/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Westerns",Cowboy Movie Channel (1080p)
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Best Thriller TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+#EXTINF:-1 tvg-id="airy-629" tvg-name="Big Cinema" tvg-logo="" group-title="Movies",Big Cinema
+https://hls.showfer.com/live/dBsh2/Big_Cinema/airy.m3u8
+#EXTINF:-1 tvg-id="airy-606" tvg-name="Cinema Star" tvg-logo="" group-title="Movies",Cinema Star
+https://hls.showfer.com/live/zlx8L/CinemaStar/airy.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Encore+ (1080p)
+https://streams2.sofast.tv/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8
+#EXTINF:-1 tvg-id="airy-625" tvg-name="Moviezone" tvg-logo="" group-title="Movies",Moviezone
+https://hls.showfer.com/live/aM05k/Moviezone/Airy.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",PeekFlick (1080p)
+https://streams2.sofast.tv/WiseM3U8_26/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Sci-Fi World (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",WeShort (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8
+#EXTINF:-1 tvg-id="dinos_dinos_US" tvg-name="Dinos 24/7" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/dinos/resized_07781107517f50a358827e62af5e8b2f8f1fcdefd4effb6c801f864127332718_bbcsarchaeologys001scid40029keyartlangenglishle1wxw0ptyjpg_400_225.png" group-title="Kids",Dinos 24/7
+https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-dinospluto-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama & Crime",Best Drama TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Drama & Crime",CrimeFlix (1080p)
+https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8
+#EXTINF:-1 tvg-id="AfroLandTV.us@SD" tvg-logo="https://i.imgur.com/jvnkrEF.png" group-title="Entertainment",AfroLandTV (1080p)
+https://alt-al.otteravision.com/alt/al/al.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",America Says (1080p)
+https://d2uij1im12h4nm.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Baggage (1080p)
+https://d2juxqbzlqzsb4.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="airy-631" tvg-name="Best of Times" tvg-logo="" group-title="Entertainment",Best of Times
+https://hls.showfer.com/live/MtMKV/Best_of_Times/airy.m3u8
+#EXTINF:-1 tvg-id="FNX.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" group-title="Entertainment",FNX (1080p)
+https://fnx.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="airy-612" tvg-name="PassTime TV" tvg-logo="" group-title="Entertainment",PassTime TV
+https://hls.showfer.com/live/AuMU8/Passtime_TV/airy.m3u8
+#EXTINF:-1 tvg-id="airy-607" tvg-name="Peak TV" tvg-logo="" group-title="Entertainment",Peak TV
+https://hls.showfer.com/live/4ae42/Peak_TV/airy.m3u8
+#EXTINF:-1 tvg-id="portraittv_amg30859c1_us" tvg-name="Portrait TV" tvg-logo="https://d31l2nn7dlh4li.cloudfront.net/amg30859/resized_images/resized_5df985b23f1ba29f3625f99e4be6685fb338b3cc746426e0d0382d5de29ccbb1_portraittvlogo1920x1080jpg_400_225.png" group-title="Entertainment",Portrait TV
+https://amg30859-amg30859c1-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg30859-amg30859c1-amgplt0023/playlist.m3u8
+#EXTINF:-1 tvg-id="airy-649" tvg-name="RnR TV" tvg-logo="" group-title="Entertainment",RnR TV
+https://hls.showfer.com/live/zlH8L/RnR_TV/airy.m3u8
+#EXTINF:-1 tvg-id="airy-605" tvg-name="Shattered TV" tvg-logo="" group-title="Entertainment",Shattered TV
+https://hls.showfer.com/live/aM05k/Shattered_TV/airy.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",Space Series (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
+#EXTINF:-1 tvg-id="us-lg_thebeverlyhillbillies_1" tvg-name="The Beverly Hillbillies" tvg-logo="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-400x225_v1.png" group-title="Entertainment",The Beverly Hillbillies
+https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8
+#EXTINF:-1 tvg-id="airy-651" tvg-name="The Canyon" tvg-logo="" group-title="Entertainment",The Canyon
+https://hls.showfer.com/live/A12U8/The_Canyon/airy.m3u8
+#EXTINF:-1 tvg-id="airy-632" tvg-name="TTL TV" tvg-logo="" group-title="Entertainment",TTL TV
+https://hls.showfer.com/live/P0MU8/Time_to_Laugh/airy.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment",TV Blossom (1080p)
+https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality",BBC Bargain Hunt (1080p)
+https://7ef46ad2.wurl.com/master/319dc4325e352117ff2ba16d22f2fb8968990c39/Vml6aW9fQmFyZ2Fpbkh1bnRfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="projectrunwayamg02189c1engspyglassmediagroup_amg02189c1eng_US" tvg-name="Project Runway" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG02189C1ENG/resized_d8c7dfde36abe2093d81134d96d670fdcebe9f78de1c7b82a1a50387988c11e6_projectrunways8coverart3840x2160jpg_400_225.png" group-title="Reality",Project Runway
+https://amg02189-amg02189c1-lg-us-7233.playouts.now.amagi.tv/playlist/amg02189-spyglass-projectrunway-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="allchewedup_amg00497c33_us" tvg-name="All Chewed Up" tvg-logo="https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_2bfe20d506370f027ab82a365f51ed0bfe17fd452a41a1e69d4fab5974a88184_5ff79c6513b842979f7d081627311360jpg_400_225.png" group-title="Lifestyle & Food",All Chewed Up
+https://amg00497-amg00497c33-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00497-amg00497c33-amgplt0023/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle & Food",Cuisine Culture (1080p)
+https://streams2.sofast.tv/umaxx/v1/01970b146c091ebd470414fa6dc31a/01970b14d5f11ea506ec1fab16cfb0/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle & Food",DIY Art (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lifestyle & Food",Omstars (1080p)
+https://d1too6m5v9oyet.cloudfront.net/scheduler/scheduleMaster/281.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Travel",America's Boating Channel (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.it@SD" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="Travel",Nautical Channel (720p)
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
