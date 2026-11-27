@@ -3683,6 +3683,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951356/hls/playlist.m3u8?includeAss
 https://tricoast-tv-bonanzabilliestv-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66213052abd90e037ccd1fe4" tvg-logo="https://i.imgur.com/tSNwL8W.png" group-title="Westerns",Outlaw WGGS-TV (720p)
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
+#EXTINF:-1 tvg-id="whale.979187723418476859" tvg-name="a-z Western Grit" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/azwesterngrit_white.png" group-title="Westerns",a-z Western Grit
+https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/Y7Q7PF5Z7SU1BEVSL1FQ/hls3/now,-1m/m.m3u8?ads.channel_name=a-z+Western+Grit&ads.content_cat=IAB1-5&ads.content_genre=Action%2CEntertainment%2CWestern%2CMovies&ads.content_id=SEC118&ads.content_language=en&ads.content_title=McLintock%21&ads.ic=IAB1-7&ads.provider=Echelon&ads.rating=TV14&ads.app_bundle=&ads.app_name=Whale%20TV%2B&ads.app_store_url=&ads.device_make=&ads.device_model=&ads.did=1fc69bfb-7bd2-439e-83f6-a89e985fc225&ads.gdpr=&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=0&ads.livestream=1&ads.coppa=0
 #EXTINF:-1 tvg-id="30ATVClassicMovies.us@SD" tvg-logo="" group-title="Classics",30A TV Classic Movies (720p)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us@SD" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="Classics",ARTFLIX Movie Classics (720p)
@@ -3715,6 +3717,10 @@ https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
 http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="XU969852" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/XU969852/1698990312054516780-logo_color.png" group-title="Classics",Universal Monsters
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814625/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=NBCUUniversalMonsters&ads.csid=tcl2_us_nbcuuniversalmonsters_ssai&ads.genre=Horror%252CSci-Fi&ads.xumo_channelId=88814625&ads.xumo_channelName=NBCUUniversalMonsters&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.xumo_streamId=88814625&declaredCC1Language=en&includeAssetTags=true
+#EXTINF:-1 tvg-id="" tvg-name="Drive In Movie Channel (1080p)" tvg-logo="" group-title="Classics",Drive In Movie Channel (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
+#EXTINF:-1 tvg-id="whale.979187723418476860" tvg-name="a-z Classic Flix" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/azclassicflix_white.png" group-title="Classics",a-z Classic Flix
+https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/7I5T3RBJ6UYJ13J0D1DW/hls3/now,-1m/m.m3u8?ads.channel_name=a-z+Classic+Flix&ads.content_cat=IAB1-5&ads.content_genre=Classic%2CMovies&ads.content_id=SEC106&ads.content_language=en&ads.content_title=A+Christmas+Carol+%281984%29&ads.ic=IAB1-7&ads.provider=Echelon&ads.rating=TV14&ads.app_bundle=&ads.app_name=Whale%20TV%2B&ads.app_store_url=&ads.device_make=&ads.device_model=&ads.did=1fc69bfb-7bd2-439e-83f6-a89e985fc225&ads.gdpr=&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=0&ads.livestream=1&ads.coppa=0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Best Thriller TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 #EXTINF:-1 tvg-id="airy-629" tvg-name="Big Cinema" tvg-logo="" group-title="Movies",Big Cinema
@@ -3805,6 +3811,8 @@ https://8ad4ede6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 https://6e346ea5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVGhlUm95YWx0eUZhbWlseV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA2300001S8" tvg-name="The LEGO Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20260414T005632SQUARE.png" group-title="Kids",The LEGO Channel
 https://jmp2.uk/stvp-USBA2300001S8
+#EXTINF:-1 tvg-id="CartoonCartoons.us@SD" tvg-name="Cartoon Cartoons (720p)" tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="Kids",Cartoon Cartoons (720p)
+https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Grind Hard Plumbing Co. (1080p) [Geo-blocked]" tvg-logo="" group-title="Reality",Grind Hard Plumbing Co. (1080p) [Geo-blocked]
 https://amg35360-amg35360c4-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg35360-amg35360c4-amgplt0022/playlist.m3u8
 #EXTINF:-1 tvg-id="US39000134M" tvg-name="Teen Mom" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000134M_20260421T142302SQUARE.png" group-title="Reality",Teen Mom
